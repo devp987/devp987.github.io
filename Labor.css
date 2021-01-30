@@ -1,0 +1,357 @@
+.mediaViewInfo {
+	--web-view-name: Labor/Employee FInder;
+	--web-view-id: LaborEmployee_FInder;
+	--web-enable-scale-up: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: LaborEmployee_FInder;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#LaborEmployee_FInder {
+	position: absolute;
+	width: 1366px;
+	height: 657px;
+	background-color: rgba(1,27,46,1);
+	overflow: hidden;
+	--web-view-name: Labor/Employee FInder;
+	--web-view-id: LaborEmployee_FInder;
+	--web-enable-scale-up: true;
+	--web-enable-deep-linking: true;
+}
+#images1213193_h {
+	filter: blur(0px);
+	fill: url(#images1213193_h);
+}
+.images1213193_h {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1057.5px;
+	left: 0px;
+	top: 0px;
+}
+#BACKGROUND {
+	fill: rgba(1,117,160,1);
+}
+.BACKGROUND {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 1366px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Umeed {
+	left: 194px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(238,238,238,1);
+}
+#LOGO {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 46px;
+	height: 31.984px;
+	left: 140px;
+	top: 12px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(1,117,160,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 45.889px;
+	height: 8.208px;
+	left: 0px;
+	top: 23.776px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(11,157,211,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 20.193px;
+	height: 26.113px;
+	transform: translate(0px, 0.322px) matrix(1,0,0,1,24.5164,4.5523) rotate(-4deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_3 {
+	fill: rgba(238,238,238,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 12.812px;
+	height: 29.523px;
+	transform: translate(0px, 0.322px) matrix(1,0,0,1,32.677,0.1975) rotate(-2deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_1 {
+	fill: rgba(238,238,238,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0.158px;
+	top: 0px;
+}
+#This_unique_feature_helps_it_e {
+	left: 140px;
+	top: 222px;
+	position: absolute;
+	overflow: hidden;
+	width: 519px;
+	height: 52px;
+	line-height: 25.200000762939453px;
+	margin-top: -3.6000003814697266px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.1px;
+}
+#LaborEmployee_FInder_q {
+	left: 230px;
+	top: 89px;
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Optima;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(238,238,238,1);
+}
+#Rectangle_57 {
+	fill: rgba(1,44,75,1);
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	height: 373px;
+	left: 806px;
+	top: 172px;
+}
+#Rectangle_53 {
+	position: absolute;
+	width: 364px;
+	height: 363px;
+	left: 792px;
+	top: 158px;
+	overflow: visible;
+}
+#We_have_a_unique_partnership_w {
+	left: 140px;
+	top: 342px;
+	position: absolute;
+	overflow: visible;
+	width: 519px;
+	height: 88px;
+	line-height: 25.200000762939453px;
+	margin-top: -3.6000003814697266px;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.1px;
+}
+#Thinking_how_we_do_it {
+	left: 140px;
+	top: 298px;
+	position: absolute;
+	overflow: visible;
+	width: 441px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Optima;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(238,238,238,1);
+}
+#Group_96 {
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 140px;
+	top: 89px;
+	overflow: visible;
+}
+#Path_4 {
+	fill: rgba(1,117,160,1);
+	stroke: rgba(1,27,46,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 72px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#finder {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 17px;
+	top: 17px;
+	overflow: visible;
+}
+#Group_13 {
+	position: absolute;
+	width: 29.989px;
+	height: 29.989px;
+	left: 3.4px;
+	top: 3.4px;
+	overflow: visible;
+}
+#Vector {
+	fill: rgba(11,157,211,1);
+}
+.Vector {
+	overflow: visible;
+	position: absolute;
+	width: 10.069px;
+	height: 4.15px;
+	left: 6.375px;
+	top: 4.834px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Vector_ {
+	fill: rgba(11,157,211,1);
+}
+.Vector_ {
+	overflow: visible;
+	position: absolute;
+	width: 29.989px;
+	height: 29.989px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_4 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Group_99 {
+	position: absolute;
+	width: 180px;
+	height: 56px;
+	left: 142px;
+	top: 511px;
+	overflow: visible;
+}
+#Rectangle_63 {
+	fill: rgba(4,40,65,1);
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+#All_Services {
+	left: 59px;
+	top: 18px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(238,238,238,1);
+}
+#Group_98 {
+	transform: translate(-142px, -510px) matrix(1,0,0,1,155,523) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_51 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+#Path_32 {
+	fill: transparent;
+	stroke: rgba(238,238,238,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_32 {
+	overflow: visible;
+	position: absolute;
+	width: 11.096px;
+	height: 19.351px;
+	left: 10.297px;
+	top: 7.61px;
+	transform: matrix(1,0,0,1,0,0);
+}
